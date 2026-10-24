@@ -2,7 +2,7 @@
 
 BNI 台南市區 **億鑫分會**（第五屆）的 3D 引薦地圖。20 位夥伴各占一座六角島，同一個顏色是同一條產業鏈；島與島之間的小人，是被引薦的客戶。
 
-**線上版：** https://marcuskou.github.io/yixin-referral-island/
+**線上版：** https://marcuskuo-max.github.io/yixin-referral-island/
 
 ![億鑫引薦島](og.png)
 
